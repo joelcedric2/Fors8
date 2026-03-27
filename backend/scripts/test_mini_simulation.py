@@ -15,7 +15,7 @@ import logging
 backend_dir = os.path.join(os.path.dirname(__file__), '..')
 sys.path.insert(0, backend_dir)
 
-os.environ['LLM_API_KEY'] = 'REDACTED_KEY'
+os.environ['LLM_API_KEY'] = 'os.environ.get('LLM_API_KEY', 'your-key-here')'
 os.environ['LLM_BASE_URL'] = 'https://openrouter.ai/api/v1'
 os.environ['LLM_MODEL_NAME'] = 'google/gemma-3-27b-it:free'
 
