@@ -1,6 +1,8 @@
 # Fors8 — Geopolitical Conflict Prediction Engine
 
-AI agent-based simulation engine for geopolitical conflict prediction. 50,000+ agents across 18 countries make autonomous decisions, debate in social forums, and produce probability-weighted predictions grounded in real-time data.
+**OSINT agencies charge six figures for this kind of analysis. Fors8 does it with 50,000 AI agents for free.**
+
+On March 27, 2025, Fors8 predicted the US/Israel–Iran conflict would end in a stalemate — framed as a Western face-saving outcome — lasting 6–9 weeks. It played out exactly as forecasted.
 
 Fors8 builds a knowledge graph of geopolitical entities — military forces, governments, trade routes, alliances — then populates it with role-specific AI decision-makers who simulate conflict dynamics through Monte Carlo runs. The result is a structured prediction report with outcome probabilities, actor-level analysis, and data-grounded confidence scores.
 
